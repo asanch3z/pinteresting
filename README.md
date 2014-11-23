@@ -1,6 +1,6 @@
 # One Month Rails
 
-This is the pinteresting sample appilcation for
+This is the pinteresting sample application for
 [*One Month Rails*](http://onemonthrails.com)
 
 by [Alex Sanchez](http://asanchez.me)
